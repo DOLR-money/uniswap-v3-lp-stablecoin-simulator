@@ -1,0 +1,38 @@
+{
+  "name": "uniswap-v3-lp-stablecoin-simulator",
+  "version": "1.0.0",
+  "description": "uniswap v3 lp stablecoin simulator",
+  "main": "stablecoin-simulator.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node stablecoin-simulator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOLR-money/uniswap-v3-lp-stablecoin-simulator.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "crypto",
+    "ethereum",
+    "cryptocurrency",
+    "eth",
+    "lp",
+    "stablecoin",
+    "uniswap",
+    "liquidity-pool",
+    "uniswap-v3",
+    "liquidity-provider"
+  ],
+  "author": "chainsy-net",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DOLR-money/uniswap-v3-lp-stablecoin-simulator/issues"
+  },
+  "homepage": "https://github.com/DOLR-money/uniswap-v3-lp-stablecoin-simulator#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "seedrandom": "^3.0.5"
+  }
+}

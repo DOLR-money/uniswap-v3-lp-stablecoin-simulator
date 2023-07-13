@@ -1,2 +1,10 @@
 # uniswap-v3-lp-stablecoin-simulator
-run: node stablecoin-simulator.js
+run:
+```
+npm start
+```
+
+run w/ seed:
+```
+npm start -- --seed 1337
+```
